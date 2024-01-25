@@ -17,6 +17,9 @@ namespace console1
             //Console.WriteLine: display text then move to new line
             Console.WriteLine("Hello world");
             Console.WriteLine("Programming Technology - ASP.NET with SQL Server");
+            //Single quotes '' could not be used to display to console
+            //Only double quotes "" could be used
+            //Console.WriteLine('Vietnam National University');
             //Pause terminal (console screen) to view result (output)
             Console.ReadKey();
 

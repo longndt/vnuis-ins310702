@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\oop\bin\Debug\oop.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\oop\bin\Debug\oop.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\oop\bin\Debug\oop.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\oop\obj\Debug\oop.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\oop\obj\Debug\oop.pdb

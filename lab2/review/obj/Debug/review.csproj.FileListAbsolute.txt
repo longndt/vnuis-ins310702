@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\review\bin\Debug\review.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\review\bin\Debug\review.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\review\bin\Debug\review.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\review\obj\Debug\review.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\review\obj\Debug\review.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\review\obj\Debug\review.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab2\review\obj\Debug\review.pdb

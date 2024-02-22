@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "review", "review\review.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop", "oop\oop.csproj", "{77DCEDDD-ED51-40B3-A574-92EE4AB8061D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook", "GradeBook\GradeBook.csproj", "{354F65E1-6B04-4D02-9456-4E6452C5E966}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{77DCEDDD-ED51-40B3-A574-92EE4AB8061D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77DCEDDD-ED51-40B3-A574-92EE4AB8061D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77DCEDDD-ED51-40B3-A574-92EE4AB8061D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354F65E1-6B04-4D02-9456-4E6452C5E966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354F65E1-6B04-4D02-9456-4E6452C5E966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354F65E1-6B04-4D02-9456-4E6452C5E966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354F65E1-6B04-4D02-9456-4E6452C5E966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

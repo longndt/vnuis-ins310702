@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab3\GradeBook\bin\Debug\GradeBook.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab3\GradeBook\bin\Debug\GradeBook.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab3\GradeBook\bin\Debug\GradeBook.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab3\GradeBook\obj\Debug\GradeBook.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab3\GradeBook\obj\Debug\GradeBook.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab3\GradeBook\obj\Debug\GradeBook.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab3\GradeBook\obj\Debug\GradeBook.pdb

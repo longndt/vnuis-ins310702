@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab4\conditional1\bin\Debug\conditional1.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab4\conditional1\bin\Debug\conditional1.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab4\conditional1\bin\Debug\conditional1.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab4\conditional1\obj\Debug\conditional1.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab4\conditional1\obj\Debug\conditional1.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab4\conditional1\obj\Debug\conditional1.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab4\conditional1\obj\Debug\conditional1.pdb

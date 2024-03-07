@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab5\encapsulation\bin\Debug\encapsulation.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab5\encapsulation\bin\Debug\encapsulation.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab5\encapsulation\bin\Debug\encapsulation.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab5\encapsulation\obj\Debug\encapsulation.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab5\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab5\encapsulation\obj\Debug\encapsulation.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab5\encapsulation\obj\Debug\encapsulation.pdb

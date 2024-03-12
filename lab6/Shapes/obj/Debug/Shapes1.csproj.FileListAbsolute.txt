@@ -1,0 +1,2 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab6\Shapes1\obj\Debug\Shapes1.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab6\Shapes1\obj\Debug\Shapes1.csproj.CoreCompileInputs.cache

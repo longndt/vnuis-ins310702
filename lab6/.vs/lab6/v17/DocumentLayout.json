@@ -1,12 +1,156 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701\\lab6\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0899B857-D08F-4B8D-90E1-A0DBF1BF2461}|Shapes\\Shapes.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0899B857-D08F-4B8D-90E1-A0DBF1BF2461}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C76BF6-7A6F-46C1-89AF-E55C98E24BF3}|IsKeyword\\IsKeyword.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\iskeyword\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C76BF6-7A6F-46C1-89AF-E55C98E24BF3}|IsKeyword\\IsKeyword.csproj|solutionrelative:iskeyword\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1412D4DE-ED7E-459B-AC8F-50F6DB13CC32}|Shapes1\\Shapes1.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\shapes1\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1412D4DE-ED7E-459B-AC8F-50F6DB13CC32}|Shapes1\\Shapes1.csproj|solutionrelative:shapes1\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1412D4DE-ED7E-459B-AC8F-50F6DB13CC32}|Shapes1\\Shapes1.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\shapes1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1412D4DE-ED7E-459B-AC8F-50F6DB13CC32}|Shapes1\\Shapes1.csproj|solutionrelative:shapes1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0899B857-D08F-4B8D-90E1-A0DBF1BF2461}|Shapes\\Shapes.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0899B857-D08F-4B8D-90E1-A0DBF1BF2461}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0899B857-D08F-4B8D-90E1-A0DBF1BF2461}|Shapes\\Shapes.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\shapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0899B857-D08F-4B8D-90E1-A0DBF1BF2461}|Shapes\\Shapes.csproj|solutionrelative:shapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1412D4DE-ED7E-459B-AC8F-50F6DB13CC32}|Shapes1\\Shapes1.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\shapes1\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1412D4DE-ED7E-459B-AC8F-50F6DB13CC32}|Shapes1\\Shapes1.csproj|solutionrelative:shapes1\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED0CCE-2F4D-4D02-842F-1E143F65D622}|EmployeeApp1\\EmployeeApp1.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310702\\lab6\\employeeapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED0CCE-2F4D-4D02-842F-1E143F65D622}|EmployeeApp1\\EmployeeApp1.csproj|solutionrelative:employeeapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPointy.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes1\\IPointy.cs",
+              "RelativeDocumentMoniker": "Shapes1\\IPointy.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes1\\IPointy.cs",
+              "RelativeToolTip": "Shapes1\\IPointy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:02:49.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes1\\App.config",
+              "RelativeDocumentMoniker": "Shapes1\\App.config",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes1\\App.config",
+              "RelativeToolTip": "Shapes1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-16T07:02:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:02:46.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hexagon.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes1\\Hexagon.cs",
+              "RelativeDocumentMoniker": "Shapes1\\Hexagon.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes1\\Hexagon.cs",
+              "RelativeToolTip": "Shapes1\\Hexagon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:02:36.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hexagon.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes\\Hexagon.cs",
+              "RelativeDocumentMoniker": "Shapes\\Hexagon.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes\\Hexagon.cs",
+              "RelativeToolTip": "Shapes\\Hexagon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T06:57:14.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T06:57:13.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\IsKeyword\\Manager.cs",
+              "RelativeDocumentMoniker": "IsKeyword\\Manager.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\IsKeyword\\Manager.cs",
+              "RelativeToolTip": "IsKeyword\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T06:57:07.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\EmployeeApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApp1\\Employee.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310702\\lab6\\EmployeeApp1\\Employee.cs",
+              "RelativeToolTip": "EmployeeApp1\\Employee.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvyoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T06:54:51.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

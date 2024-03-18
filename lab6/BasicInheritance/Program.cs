@@ -14,6 +14,9 @@ namespace BasicInheritance
             myCar.Speed = 50;
             Console.WriteLine("My car is going {0} MPH", myCar.Speed);
             Console.ReadLine();
+
+            //Create new object for MiniVan
+            MiniVan mv = new MiniVan();
         }
     }
 }

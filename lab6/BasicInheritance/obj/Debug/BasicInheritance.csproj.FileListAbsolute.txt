@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\BasicInheritance\bin\Debug\inheritance.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\BasicInheritance\bin\Debug\inheritance.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\BasicInheritance\bin\Debug\inheritance.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\BasicInheritance\obj\Debug\BasicInheritance.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\BasicInheritance\obj\Debug\inheritance.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\BasicInheritance\obj\Debug\inheritance.pdb

@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\EmployeeApp1\bin\Debug\EmployeeApp1.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\EmployeeApp1\bin\Debug\EmployeeApp1.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\EmployeeApp1\bin\Debug\EmployeeApp1.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\EmployeeApp1\obj\Debug\EmployeeApp1.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\EmployeeApp1\obj\Debug\EmployeeApp1.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\EmployeeApp1\obj\Debug\EmployeeApp1.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab6\EmployeeApp1\obj\Debug\EmployeeApp1.pdb

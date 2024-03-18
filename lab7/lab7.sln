@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLamdaExpressions", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMath", "SimpleMath\SimpleMath.csproj", "{BCB2F7F6-CB30-466C-986D-A8FF9E0E34F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListDemo", "..\..\vnuis-ins310701\lab7\ArrayListDemo\ArrayListDemo.csproj", "{517578FF-9C13-46C7-9A69-A3ED4FBD173F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{BCB2F7F6-CB30-466C-986D-A8FF9E0E34F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB2F7F6-CB30-466C-986D-A8FF9E0E34F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCB2F7F6-CB30-466C-986D-A8FF9E0E34F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517578FF-9C13-46C7-9A69-A3ED4FBD173F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517578FF-9C13-46C7-9A69-A3ED4FBD173F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517578FF-9C13-46C7-9A69-A3ED4FBD173F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517578FF-9C13-46C7-9A69-A3ED4FBD173F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

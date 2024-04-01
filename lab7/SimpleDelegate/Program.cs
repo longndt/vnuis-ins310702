@@ -23,6 +23,9 @@ namespace SimpleDelegate
             BinaryOp op = new BinaryOp(SimpleMath.Add);
             //Invoke add method indirectly using delegate
             Console.WriteLine("10 + 10 = {0}", op(10, 10));
+
+            op = new BinaryOp(SimpleMath.Substract);
+            Console.WriteLine("10 - 10 = {0}", op(10, 10));
         }
     }
 }

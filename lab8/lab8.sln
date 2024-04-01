@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithLinqExpressions", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAsVenn", "LinqAsVenn\LinqAsVenn.csproj", "{062E5AC9-6447-4B0B-AA21-2CBED83C3179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtensions", "MyExtensions\MyExtensions.csproj", "{0368479E-0D92-4641-93ED-42E79CE92E87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{062E5AC9-6447-4B0B-AA21-2CBED83C3179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{062E5AC9-6447-4B0B-AA21-2CBED83C3179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{062E5AC9-6447-4B0B-AA21-2CBED83C3179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0368479E-0D92-4641-93ED-42E79CE92E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0368479E-0D92-4641-93ED-42E79CE92E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0368479E-0D92-4641-93ED-42E79CE92E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0368479E-0D92-4641-93ED-42E79CE92E87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,17 +12,19 @@ namespace StudentMark
         {
             List<Student> students = new List<Student>
                 {
-                    new Student { Name = "Alice", Mark = 90 },
-                    new Student { Name = "Bob", Mark = 80 },
-                    new Student { Name = "Charlie", Mark = 85 },
-                    new Student { Name = "David", Mark = 92 }
+                    new Student { Name = "Alice", Mark = 90, Age = 20 },
+                    new Student { Name = "Bob", Mark = 80, Age = 21},
+                    new Student { Name = "Charlie", Mark = 85, Age = 22 },
+                    new Student { Name = "David", Mark = 92, Age = 19 }
                 };
 
-            var highScorer = from student in students
-                             where student.Mark > 85
-                             select student;
+            // LINQ (Language Integrated Query)
+            var result = from student in students
+                         where student.Mark >= 80 && student.Age >= 20
+                         orderby student.Name ascending
+                         select student;
 
-            foreach (var student in highScorer)
+            foreach (var student in result)
             {
                 Console.WriteLine(student.Name + " scored " + student.Mark);
             }

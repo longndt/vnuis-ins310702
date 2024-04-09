@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\System.Data\bin\Debug\System.Data.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\System.Data\bin\Debug\System.Data.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\System.Data\bin\Debug\System.Data.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\System.Data\obj\Debug\System.Data.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\System.Data\obj\Debug\System.Data.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\System.Data\obj\Debug\System.Data.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\System.Data\obj\Debug\System.Data.pdb

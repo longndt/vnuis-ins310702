@@ -1,0 +1,84 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\ADOTest.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\ADOTest.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\ADOTest.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\BouncyCastle.Cryptography.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\Google.Protobuf.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\K4os.Hash.xxHash.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\MySql.Data.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Buffers.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.IO.Pipelines.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Memory.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\ZstdSharp.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\BouncyCastle.Cryptography.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\Google.Protobuf.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\Google.Protobuf.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\K4os.Hash.xxHash.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\MySql.Data.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Buffers.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.IO.Pipelines.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Memory.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Numerics.Vectors.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\obj\Debug\ADOTest.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\obj\Debug\ADOTest.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\obj\Debug\ADOTest.csproj.Up2Date
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\obj\Debug\ADOTest.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\obj\Debug\ADOTest.pdb
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\ADOTest.exe.config
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\ADOTest.exe
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\ADOTest.pdb
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\Google.Protobuf.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\K4os.Hash.xxHash.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\MySql.Data.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Buffers.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Data.SqlClient.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.IO.Pipelines.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Memory.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\ZstdSharp.dll
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\Google.Protobuf.pdb
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\Google.Protobuf.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\K4os.Hash.xxHash.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\MySql.Data.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Buffers.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Data.SqlClient.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.IO.Pipelines.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Memory.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.csproj.AssemblyReference.cache
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.csproj.CoreCompileInputs.cache
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.csproj.Up2Date
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.exe
+D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.pdb

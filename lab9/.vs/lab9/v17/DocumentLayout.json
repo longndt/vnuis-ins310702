@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dropbox\\VNU IS\\1. VNU\\INS3107 - Programming Technology\\Codes\\lab9\\",
+  "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701\\lab9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E17CBBC8-216E-4BBF-9A22-80789A91937D}|System.Data\\System.Data.csproj|d:\\dropbox\\vnu is\\1. vnu\\ins3107 - programming technology\\codes\\lab9\\system.data\\idbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17CBBC8-216E-4BBF-9A22-80789A91937D}|System.Data\\System.Data.csproj|solutionrelative:system.data\\idbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17CBBC8-216E-4BBF-9A22-80789A91937D}|System.Data\\System.Data.csproj|d:\\dropbox\\vnu is\\1. vnu\\ins3107 - programming technology\\codes\\lab9\\system.data\\idatarecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17CBBC8-216E-4BBF-9A22-80789A91937D}|System.Data\\System.Data.csproj|solutionrelative:system.data\\idatarecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17CBBC8-216E-4BBF-9A22-80789A91937D}|System.Data\\System.Data.csproj|d:\\dropbox\\vnu is\\1. vnu\\ins3107 - programming technology\\codes\\lab9\\system.data\\idatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17CBBC8-216E-4BBF-9A22-80789A91937D}|System.Data\\System.Data.csproj|solutionrelative:system.data\\idatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D986B09-A6AD-42F5-85F8-CD03958C5B3F}|ADOTest\\ADOTest.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701\\lab9\\adotest\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D986B09-A6AD-42F5-85F8-CD03958C5B3F}|ADOTest\\ADOTest.csproj|solutionrelative:adotest\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IDBCommand.cs",
-              "DocumentMoniker": "D:\\Dropbox\\VNU IS\\1. VNU\\INS3107 - Programming Technology\\Codes\\lab9\\System.Data\\IDBCommand.cs",
-              "RelativeDocumentMoniker": "System.Data\\IDBCommand.cs",
-              "ToolTip": "D:\\Dropbox\\VNU IS\\1. VNU\\INS3107 - Programming Technology\\Codes\\lab9\\System.Data\\IDBCommand.cs",
-              "RelativeToolTip": "System.Data\\IDBCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701\\lab9\\ADOTest\\MainClass.cs",
+              "RelativeDocumentMoniker": "ADOTest\\MainClass.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701\\lab9\\ADOTest\\MainClass.cs",
+              "RelativeToolTip": "ADOTest\\MainClass.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvx4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T16:46:43.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IDataRecord.cs",
-              "DocumentMoniker": "D:\\Dropbox\\VNU IS\\1. VNU\\INS3107 - Programming Technology\\Codes\\lab9\\System.Data\\IDataRecord.cs",
-              "RelativeDocumentMoniker": "System.Data\\IDataRecord.cs",
-              "ToolTip": "D:\\Dropbox\\VNU IS\\1. VNU\\INS3107 - Programming Technology\\Codes\\lab9\\System.Data\\IDataRecord.cs",
-              "RelativeToolTip": "System.Data\\IDataRecord.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T16:46:42.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IDataReader.cs",
-              "DocumentMoniker": "D:\\Dropbox\\VNU IS\\1. VNU\\INS3107 - Programming Technology\\Codes\\lab9\\System.Data\\IDataReader.cs",
-              "RelativeDocumentMoniker": "System.Data\\IDataReader.cs",
-              "ToolTip": "D:\\Dropbox\\VNU IS\\1. VNU\\INS3107 - Programming Technology\\Codes\\lab9\\System.Data\\IDataReader.cs",
-              "RelativeToolTip": "System.Data\\IDataReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T16:46:41.436Z",
+              "WhenOpened": "2024-04-09T01:53:21.85Z",
               "EditorCaption": ""
             }
           ]

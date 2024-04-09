@@ -82,3 +82,9 @@ D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj
 D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.csproj.Up2Date
 D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.exe
 D:\Dropbox\VNU IS\1. VNU\INS3107 - Programming Technology\Codes\lab9\ADOTest\obj\Debug\ADOTest.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Data.SqlClient.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab9\ADOTest\bin\Debug\System.Data.SqlClient.xml

@@ -5,3 +5,10 @@ D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab10\DataAdapterWithLINQ\obj\Debug\D
 D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab10\DataAdapterWithLINQ\obj\Debug\DataAdapterWithLINQ.csproj.CoreCompileInputs.cache
 D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab10\DataAdapterWithLINQ\obj\Debug\DataAdapterWithLINQ.exe
 D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab10\DataAdapterWithLINQ\obj\Debug\DataAdapterWithLINQ.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab10\DataAdapterWithLINQ\bin\Debug\DataAdapterWithLINQ.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab10\DataAdapterWithLINQ\bin\Debug\DataAdapterWithLINQ.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab10\DataAdapterWithLINQ\bin\Debug\DataAdapterWithLINQ.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab10\DataAdapterWithLINQ\obj\Debug\DataAdapterWithLINQ.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab10\DataAdapterWithLINQ\obj\Debug\DataAdapterWithLINQ.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab10\DataAdapterWithLINQ\obj\Debug\DataAdapterWithLINQ.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab10\DataAdapterWithLINQ\obj\Debug\DataAdapterWithLINQ.pdb
